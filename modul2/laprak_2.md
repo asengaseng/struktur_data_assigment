@@ -237,10 +237,10 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 ##### Output 1
 ![Screenshot Output 1](https://github.com/asengaseng/struktur_data_assigment/blob/main/modul2/output1.png)
 ##### Output 2
-![Screenshot Output 2](https://github.com/asengaseng/struktur-data-assigment/blob/main/modul2/output2.png)
+![Screenshot Output 2](https://github.com/asengaseng/struktur_data_assigment/blob/main/modul2/output2.png)
 
 ##### Output 3
-![Screenshot Output 3](https://github.com/asengaseng/struktur-data-assigment/blob/main/modul2/output-3.png)
+![Screenshot Output 3](https://github.com/asengaseng/struktur_data_assigment/blob/main/modul2/output3.png)
 
 
 ## Kesimpulan
@@ -251,6 +251,7 @@ Program C++ ini adalah alat bantu sederhana berbasis menu interaktif yang diranc
 <br>jukani. Moh. 2009. Struktur Data(Algoritma & Struktur Data 2) Dengan C, C++ .Edisi 3. Jakarta : Mitra Wacana Media
 
 <br>
+
 
 
 
