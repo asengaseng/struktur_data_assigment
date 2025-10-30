@@ -130,13 +130,13 @@ Program C++ ini dibuat untuk menampilkan pola angka simetris (mirrored pattern) 
 
 
 ##### Output 1
-![Screenshot Output 1](https://github.com/asengaseng/struktur-data-saya/blob/main/Modul 1/output1.png)
+![Screenshot Output 1](https://github.com/asengaseng/struktur_data_assigment/blob/main/Modul1/output1.png)
 
 ##### Output 2
-![Screenshot Output 2](https://github.com/asengaseng/struktur-data-saya/blob/main/Modul 1/output2.png)
+![Screenshot Output 2](https://github.com/asengaseng/struktur_data_assigment/blob/main/Modul1/output2.png)
 
 ##### Output 3
-![Screenshot Output 3](https://github.com/asengaseng/struktur-data-saya/blob/main/Modul 1/output3.png)
+![Screenshot Output 3](https://github.com/asengaseng/struktur_data_assigment/blob/main/Modul1/output3.png)
 
 
 ## Kesimpulan
@@ -145,5 +145,6 @@ Program C++ ini dibuat untuk menampilkan pola angka simetris (mirrored pattern) 
 ## Referensi
 [1]
 <br>jukani. Moh. 2009. Struktur Data(Algoritma & Struktur Data 2) Dengan C, C++ .Edisi 3. Jakarta : Mitra Wacana Media
+
 
 <br>
