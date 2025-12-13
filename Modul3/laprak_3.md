@@ -220,7 +220,7 @@ Program ketiga dibuat untuk mengelola dua buah array 2 dimensi berukuran 3x3 dan
 ![Screenshot Output 2](https://github.com/asengaseng/struktur-data-saya/blob/main/Modul-3/Output-3-2.png)
 
 ##### Output 3
-![Screenshot Output 3](https://github.com/asengaseng/struktur-data-sayat/blob/main/Modul-3/Output-3-3.png)
+![Screenshot Output 3](https://github.com/asengaseng/struktur-data-saya/blob/main/Modul-3/Output-3-3.png)
 
 
 ## Kesimpulan
@@ -230,3 +230,4 @@ Program ketiga dibuat untuk mengelola dua buah array 2 dimensi berukuran 3x3 dan
 [1]
 <br>jukani. Moh. 2009. Struktur Data(Algoritma & Struktur Data 2) Dengan C, C++ .Edisi 3. Jakarta : Mitra Wacana Media
 <br>
+
