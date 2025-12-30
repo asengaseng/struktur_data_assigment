@@ -575,7 +575,7 @@ int main() {
 ```
 ### 2. Hasil ADT Singly Linked list
 ### Output:
-![Screenshot Output 2](https://github.com/asengaseng/struktur-data-assigment/blob/main/Mudul5/Output-unguided.png)
+![Screenshot Output 2](https://github.com/asengaseng/struktur_data_assigment/blob/main/Mudul5/Output-unguided.png)
 
 
 Kode di atas digunakan untuk mempelajari dan menerapkan konsep dasar struktur data Linked List (daftar berantai tunggal) dalam bahasa C++.
@@ -583,4 +583,5 @@ dengan kata lain Program ini mengaplikasikan struktur data Singly Linked List me
 
 
 ## Kesimpulan
+
 Pembelajaran ini memberikan pengalaman praktis bagi mahasiswa dalam menyusun struktur data Singly Linked List menggunakan bahasa C++. Fokus utama dari latihan ini adalah memantapkan pemahaman mengenai peran node dan pointer yang bekerja di dalam memori dinamis. Selain itu, mahasiswa diajak untuk menguasai berbagai logika fundamental, mulai dari teknik penambahan elemen, pemindaian data (pencarian dan penampilan), hingga penghitungan jumlah node secara sistematis.
