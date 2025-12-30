@@ -589,7 +589,7 @@ int main() {
 ```
 
 ### Output soal 1 :
-![Screenshot Output 1](https://github.com/asengaseng/struktur_data_assignment/blob/main/Modul10/1.png)
+![Screenshot Output 1](https://github.com/asengaseng/struktur_data_assigment/blob/main/Modul10/1.png)
 
 
 Program ini mengandalkan kombinasi fungsi alokasi memori dan metode insert untuk menyusun struktur data Binary Search Tree (BST). Setiap kali node baru ditambahkan, sistem secara otomatis menempatkannya sesuai aturan hierarki BST (nilai lebih kecil ke kiri, nilai lebih besar ke kanan). Untuk memverifikasi hasilnya, program menggunakan teknik penelusuran In-Order, sebuah metode traversal yang secara sistematis mengunjungi sub-pohon kiri terlebih dahulu, memproses atau mencetak nilai pada node induk, lalu diakhiri dengan mengunjungi sub-pohon kanan. Dengan urutan kerja tersebut, output yang dihasilkan akan selalu menampilkan data dalam urutan yang teratur dari nilai terkecil hingga terbesar.
@@ -703,7 +703,7 @@ int main() {
 ```
 
 ### Output:
-![Screenshot Output 2](https://github.com/asengaseng/struktur_data_assignment/blob/main/Modul10/2.png)
+![Screenshot Output 2](https://github.com/asengaseng/struktur_data_assigment/blob/main/Modul10/2.png)
 
 
 Program ini mengelola basis data tanaman dengan mengimplementasikan struktur Binary Search Tree (BST) melalui fungsi alokasi memori dan insertNode. Selain membangun hierarki data, program ini dilengkapi dengan fitur analisis kuantitatif seperti hitungJumlahNode untuk mengetahui populasi elemen dan hitungTotalInfo untuk mengakumulasi nilai informasi di dalamnya. Salah satu aspek teknis yang ditekankan adalah pengukuran struktur pohon melalui penghitungan kedalaman (depth). Program ini membedakan secara jelas bahwa kedalaman dihitung berdasarkan jarak suatu node dari akar (root), sementara ketinggian (height) dihitung dari jarak node tersebut ke daun (leaf) paling ujung di bawahnya.
@@ -842,10 +842,11 @@ int main()
 ```
 
 ### Output:
-![Screenshot Output 3](https://github.com/asengaseng/struktur_data_assignment/blob/main/Modul10/3.png)
+![Screenshot Output 3](https://github.com/asengaseng/struktur_data_assigment/blob/main/Modul10/3.png)
 
 
 Program ini dirancang untuk membangun struktur data Binary Search Tree (BST) dan menyajikan datanya melalui dua metode penelusuran yang berbeda, yaitu Pre-Order dan Post-Order. Pada metode Pre-Order, program memproses atau mencetak data langsung pada node induk terlebih dahulu sebelum mengeksplorasi cabang kiri dan dilanjutkan ke cabang kanan. Sebaliknya, pada metode Post-Order, program akan menelusuri seluruh sub-pohon kiri dan sub-pohon kanan hingga tuntas, baru kemudian memproses nilai pada node induk atau akar sebagai tahap akhir.
 
 ### Kesimpulan
+
 Pada materi tree ini, dibahas beberapa fungsi utama yang digunakan dalam struktur data tree, seperti proses penyisipan data menggunakan fungsi alokasi dan insertNode. Selain itu, juga dibahas perhitungan jumlah node melalui fungsi hitungJumlahNode, perhitungan total nilai informasi dengan fungsi hitungTotalInfo, serta perhitungan kedalaman tree menggunakan fungsi hitungKedalaman. Meskipun secara konsep kedalaman dan ketinggian tree terlihat serupa, keduanya memiliki perbedaan dalam implementasi. Oleh karena itu, perhitungan kedalaman dan ketinggian pada suatu tree merupakan dua fungsi yang berbeda dan tidak dapat disamakan.
