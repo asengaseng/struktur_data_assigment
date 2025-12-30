@@ -1092,7 +1092,7 @@ int main(){
 
 ### 1. 
 ### Output
-![Screenshot Output 2](https://github.com/pamelasandra/struktur_data_Assignment/blob/main/Modul6/Output-6.png)
+![Screenshot Output 2](https://github.com/asengaseng/struktur_data_assignment/blob/main/Modul6/Output-6.png)
 
 Program ini mengimplementasikan struktur data Doubly Linked List sebagai media penyimpanan informasi kendaraan yang mencakup data nomor polisi, warna, dan tahun produksi. Salah satu karakteristik utama program ini adalah kemampuannya menangani duplikasi data, di mana nomor polisi yang sama diizinkan untuk tersimpan berulang kali. Selain itu, tersedia fitur pencarian dan penghapusan massal yang dirancang khusus untuk membersihkan semua data kendaraan berdasarkan kecocokan nomor polisi tertentu secara sekaligus.
 
@@ -1103,4 +1103,5 @@ Pembelajaran ini menonjolkan efisiensi Doubly Linked List (DLL) yang terletak pa
 ## Referensi
 [1] Doubly Linked List in C++. https://www.geeksforgeeks.org/cpp/doubly-linked-list-in-cpp/
 [2] Deletion in a Doubly Linked List. https://www.geeksforgeeks.org/dsa/delete-a-node-in-a-doubly-linked-list/
+
 [3] Search an element in a Doubly Linked List. https://www.geeksforgeeks.org/dsa/search-an-element-in-a-doubly-linked-list/
